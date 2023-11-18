@@ -29,9 +29,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![image](https://github.com/KolluruPujitha/DISTANCE-BETWEEN-TWO-POINTS/assets/150231340/a83e949f-3106-47cb-a425-3526bbd496ca)
-
-
+![Alt text](<Screenshot (2).png>)
 
 ### RESULT:
-Thus the program to distance between two points is executed successfully
+Thus the program to distance between two points is executed successfully.
